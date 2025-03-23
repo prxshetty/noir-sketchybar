@@ -1,7 +1,7 @@
 class Sketchybar < Formula
   desc "A customizable macOS menu bar replacement (Forked)"
   homepage "https://github.com/prxshetty/SketchyBar"
-  head "https://github.com/prxshetty/SketchyBar.git", branch: "main"
+  head "https://github.com/prxshetty/SketchyBar.git", branch: "master"
 
   depends_on "cmake" => :build
 
